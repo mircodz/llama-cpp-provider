@@ -1,0 +1,14 @@
+{
+	"functionary": {
+		"repo_id": "meetkai/functionary-small-v2.2-GGUF",
+		"filename": "functionary-small-v2.2.q4_0.gguf",
+		"chat_format": "functionary-v2",
+		"n_ctx": 8096
+	},
+	"functionary-7b": {
+		"repo_id": "meetkai/functionary-7b-v2.1-GGUF",
+		"filename": "functionary-7b-v2.1.q4_0.gguf",
+		"chat_format": "functionary-v2",
+		"n_ctx": 8096,
+	}
+}
